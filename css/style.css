@@ -1,0 +1,50 @@
+body{
+    padding: 5px;
+    background:cadetblue;  
+}
+.flex-header {
+    background-color: grey;
+}
+.flex-name{
+    background-color: rgb(26, 19, 19);
+    color: rgb(156, 66, 66);
+    text-align: center;
+}
+.flex-container {
+        padding:10px;
+        background: black;
+        border-radius: 20px;    
+}
+.flex-item {background-color: rgb(148, 93, 165);
+        margin: 0px ;
+    padding: 15px;
+    background: rgb(153, 76, 163);
+    border: 1px solid #FFF;
+    text-decoration: none;
+}
+.flex-item :hover{
+    text-decoration: line-through;
+     background-color: mediumpurple;
+     transition: all.1s ease-in; 
+}
+.button{
+    display: inline-block;
+    vertical-align: top;
+}
+span {
+    font-size: 30px;
+    font-family: 'Trebuchet MS'
+}
+    
+span b {
+    font-size: 60%;
+    font-family: Tebuchet Arial sans-serif;
+   
+}
+
+a :hover{
+    background-color: mediumpurple;
+    
+}
+
+
